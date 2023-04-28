@@ -10,3 +10,12 @@
         <button style="width: 150px;">Add</button>
     </div>
 </div>
+
+<div style="display: flex; align-items: baseline; width: 700px; margin: 0 auto;">
+    <input type="checkbox">
+    <h4 style="flex-grow: 1;">Will become list item</h4>
+    <div style="display:flex;">
+        <button>Edit</button>
+        <button>Delete</button>
+    </div>
+</div>
